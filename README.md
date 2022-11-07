@@ -10,6 +10,8 @@
 - Trucos muy locos de ~~mi amor~~ profesor
 - Las personalidades múltiples de Freddy Vegas
 - Creado por el increíble Platzi Team
+- Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
 
 Como un amable recordatorio **Este readme es un chiste.** Diseñado para practicar. Si llegaste hasta aquí, por favor, no lo tomes en serio y mejor [ve a ver el curso.](hthttps://platzi.com/cursos/git-github/tp:// "ve a ver el curso.")
 
